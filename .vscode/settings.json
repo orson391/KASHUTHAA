@@ -4,6 +4,7 @@
         "*.ndjson": "jsonl",
         "*.dbclient-js": "javascript",
         "*.embeddedhtml": "html",
-        "stdio.h": "c"
+        "stdio.h": "c",
+        "stdlib.h": "c"
     }
 }
