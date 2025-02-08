@@ -1,0 +1,5 @@
+C:\Users\gouth\OneDrive\Desktop\KASHUTHAA\C#\G\ConsoleApp1\ConsoleApp1\bin\Release\net8.0\publish\ConsoleApp1.exe
+C:\Users\gouth\OneDrive\Desktop\KASHUTHAA\C#\G\ConsoleApp1\ConsoleApp1\bin\Release\net8.0\publish\ConsoleApp1.dll
+C:\Users\gouth\OneDrive\Desktop\KASHUTHAA\C#\G\ConsoleApp1\ConsoleApp1\bin\Release\net8.0\publish\ConsoleApp1.deps.json
+C:\Users\gouth\OneDrive\Desktop\KASHUTHAA\C#\G\ConsoleApp1\ConsoleApp1\bin\Release\net8.0\publish\ConsoleApp1.runtimeconfig.json
+C:\Users\gouth\OneDrive\Desktop\KASHUTHAA\C#\G\ConsoleApp1\ConsoleApp1\bin\Release\net8.0\publish\ConsoleApp1.pdb

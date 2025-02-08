@@ -1,0 +1,50 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+<h1>Multiplayer Card Game</h1>
+    <input id="playerName" placeholder="Enter your name">
+    <button onclick="joinGame()">Join Game</button>
+
+    <h2>Players:</h2>
+    <ul id="playersList"></ul>
+
+    <h2>Table Cards:</h2>
+    <ul id="tableCards"></ul>
+
+    <button onclick="playCard()">Play Card</button>
+
+    <script>
+        const connection = new signalR.HubConnectionBuilder()
+            .withUrl("/gameHub")
+            .build();
+
+        connection.start().then(() => console.log("Connected!"));
+
+        function joinGame() {
+            const name = document.getElementById("playerName").value;
+            connection.invoke("JoinGame", name);
+        }
+
+        connection.on("UpdatePlayers", (players) => {
+            document.getElementById("playersList").innerHTML = players.map(p => `<li>${p.name}</li>`).join("");
+        });
+
+        connection.on("UpdateTable", (tableCards) => {
+            document.getElementById("tableCards").innerHTML = Object.entries(tableCards)
+                .map(([player, card]) => `<li>${player} played ${card.rank} of ${card.suit}</li>`)
+                .join("");
+        });
+
+        function playCard() {
+            const rank = prompt("Enter card rank (2-14):");
+            const suit = prompt("Enter suit (Spades, Hearts, Diamonds, Clubs):");
+            connection.invoke("PlayCard", document.getElementById("playerName").value, parseInt(rank), suit);
+        }
+    </script>
