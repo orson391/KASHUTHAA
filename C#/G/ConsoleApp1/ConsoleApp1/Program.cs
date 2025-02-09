@@ -268,7 +268,7 @@ namespace ConsoleApp1
 
             try
             {
-                client = new TcpClient("127.0.0.1", 5555);
+                client = new TcpClient("141.95.55.255", 5555);
                 stream = client.GetStream();
                 Console.WriteLine("Connected to server.");
                 System.Threading.Thread.Sleep(5000);
