@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Play_Kazhutha.PlayLocal.Host.localHost"
+             Title="localHost">
+    <VerticalStackLayout>
+        <Label 
+            Text="Host Your Game"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+
+        <Label Text="Server Logs:" FontSize="18" />
+        <ScrollView HeightRequest="200">
+            <Label x:Name="ServerLogs" FontSize="14" />
+        </ScrollView>
+    </VerticalStackLayout>
+</ContentPage>

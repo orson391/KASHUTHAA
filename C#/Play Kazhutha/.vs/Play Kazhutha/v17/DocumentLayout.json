@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gouth\\OneDrive\\Desktop\\KASHUTHAA\\C#\\Play Kazhutha\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF14CA4-73AF-4B4E-9889-89465283342B}|Play Kazhutha\\Play Kazhutha.csproj|c:\\users\\gouth\\onedrive\\desktop\\kashuthaa\\c#\\play kazhutha\\play kazhutha\\playlocal\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF14CA4-73AF-4B4E-9889-89465283342B}|Play Kazhutha\\Play Kazhutha.csproj|solutionrelative:play kazhutha\\playlocal\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF14CA4-73AF-4B4E-9889-89465283342B}|Play Kazhutha\\Play Kazhutha.csproj|c:\\users\\gouth\\onedrive\\desktop\\kashuthaa\\c#\\play kazhutha\\play kazhutha\\playlocal\\host\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF14CA4-73AF-4B4E-9889-89465283342B}|Play Kazhutha\\Play Kazhutha.csproj|solutionrelative:play kazhutha\\playlocal\\host\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF14CA4-73AF-4B4E-9889-89465283342B}|Play Kazhutha\\Play Kazhutha.csproj|c:\\users\\gouth\\onedrive\\desktop\\kashuthaa\\c#\\play kazhutha\\play kazhutha\\playlocal\\host\\localhost.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF14CA4-73AF-4B4E-9889-89465283342B}|Play Kazhutha\\Play Kazhutha.csproj|solutionrelative:play kazhutha\\playlocal\\host\\localhost.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF14CA4-73AF-4B4E-9889-89465283342B}|Play Kazhutha\\Play Kazhutha.csproj|c:\\users\\gouth\\onedrive\\desktop\\kashuthaa\\c#\\play kazhutha\\play kazhutha\\platforms\\android\\networkhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF14CA4-73AF-4B4E-9889-89465283342B}|Play Kazhutha\\Play Kazhutha.csproj|solutionrelative:play kazhutha\\platforms\\android\\networkhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF14CA4-73AF-4B4E-9889-89465283342B}|Play Kazhutha\\Play Kazhutha.csproj|c:\\users\\gouth\\onedrive\\desktop\\kashuthaa\\c#\\play kazhutha\\play kazhutha\\playlocal\\host\\localhost.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EDF14CA4-73AF-4B4E-9889-89465283342B}|Play Kazhutha\\Play Kazhutha.csproj|solutionrelative:play kazhutha\\playlocal\\host\\localhost.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF14CA4-73AF-4B4E-9889-89465283342B}|Play Kazhutha\\Play Kazhutha.csproj|c:\\users\\gouth\\onedrive\\desktop\\kashuthaa\\c#\\play kazhutha\\play kazhutha\\playlocal\\localjoin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF14CA4-73AF-4B4E-9889-89465283342B}|Play Kazhutha\\Play Kazhutha.csproj|solutionrelative:play kazhutha\\playlocal\\localjoin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF14CA4-73AF-4B4E-9889-89465283342B}|Play Kazhutha\\Play Kazhutha.csproj|c:\\users\\gouth\\onedrive\\desktop\\kashuthaa\\c#\\play kazhutha\\play kazhutha\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF14CA4-73AF-4B4E-9889-89465283342B}|Play Kazhutha\\Play Kazhutha.csproj|solutionrelative:play kazhutha\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF14CA4-73AF-4B4E-9889-89465283342B}|Play Kazhutha\\Play Kazhutha.csproj|c:\\users\\gouth\\onedrive\\desktop\\kashuthaa\\c#\\play kazhutha\\play kazhutha\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EDF14CA4-73AF-4B4E-9889-89465283342B}|Play Kazhutha\\Play Kazhutha.csproj|solutionrelative:play kazhutha\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF14CA4-73AF-4B4E-9889-89465283342B}|Play Kazhutha\\Play Kazhutha.csproj|c:\\users\\gouth\\onedrive\\desktop\\kashuthaa\\c#\\play kazhutha\\play kazhutha\\playlocal\\localjoin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EDF14CA4-73AF-4B4E-9889-89465283342B}|Play Kazhutha\\Play Kazhutha.csproj|solutionrelative:play kazhutha\\playlocal\\localjoin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e3fb24c2-2e84-3146-a5f8-bc25bbc68f8a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\gouth\\OneDrive\\Desktop\\KASHUTHAA\\C#\\Play Kazhutha\\Play Kazhutha\\PlayLocal\\Client.cs",
+              "RelativeDocumentMoniker": "Play Kazhutha\\PlayLocal\\Client.cs",
+              "ToolTip": "C:\\Users\\gouth\\OneDrive\\Desktop\\KASHUTHAA\\C#\\Play Kazhutha\\Play Kazhutha\\PlayLocal\\Client.cs",
+              "RelativeToolTip": "Play Kazhutha\\PlayLocal\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T15:39:15.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\gouth\\OneDrive\\Desktop\\KASHUTHAA\\C#\\Play Kazhutha\\Play Kazhutha\\PlayLocal\\Host\\Server.cs",
+              "RelativeDocumentMoniker": "Play Kazhutha\\PlayLocal\\Host\\Server.cs",
+              "ToolTip": "C:\\Users\\gouth\\OneDrive\\Desktop\\KASHUTHAA\\C#\\Play Kazhutha\\Play Kazhutha\\PlayLocal\\Host\\Server.cs",
+              "RelativeToolTip": "Play Kazhutha\\PlayLocal\\Host\\Server.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T15:29:43.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "localHost.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\gouth\\OneDrive\\Desktop\\KASHUTHAA\\C#\\Play Kazhutha\\Play Kazhutha\\PlayLocal\\Host\\localHost.xaml.cs",
+              "RelativeDocumentMoniker": "Play Kazhutha\\PlayLocal\\Host\\localHost.xaml.cs",
+              "ToolTip": "C:\\Users\\gouth\\OneDrive\\Desktop\\KASHUTHAA\\C#\\Play Kazhutha\\Play Kazhutha\\PlayLocal\\Host\\localHost.xaml.cs",
+              "RelativeToolTip": "Play Kazhutha\\PlayLocal\\Host\\localHost.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T15:14:26.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NetworkHelper.cs",
+              "DocumentMoniker": "C:\\Users\\gouth\\OneDrive\\Desktop\\KASHUTHAA\\C#\\Play Kazhutha\\Play Kazhutha\\Platforms\\Android\\NetworkHelper.cs",
+              "RelativeDocumentMoniker": "Play Kazhutha\\Platforms\\Android\\NetworkHelper.cs",
+              "ToolTip": "C:\\Users\\gouth\\OneDrive\\Desktop\\KASHUTHAA\\C#\\Play Kazhutha\\Play Kazhutha\\Platforms\\Android\\NetworkHelper.cs",
+              "RelativeToolTip": "Play Kazhutha\\Platforms\\Android\\NetworkHelper.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvw8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T15:28:00.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "localHost.xaml",
+              "DocumentMoniker": "C:\\Users\\gouth\\OneDrive\\Desktop\\KASHUTHAA\\C#\\Play Kazhutha\\Play Kazhutha\\PlayLocal\\Host\\localHost.xaml",
+              "RelativeDocumentMoniker": "Play Kazhutha\\PlayLocal\\Host\\localHost.xaml",
+              "ToolTip": "C:\\Users\\gouth\\OneDrive\\Desktop\\KASHUTHAA\\C#\\Play Kazhutha\\Play Kazhutha\\PlayLocal\\Host\\localHost.xaml",
+              "RelativeToolTip": "Play Kazhutha\\PlayLocal\\Host\\localHost.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-13T15:29:05.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "localJoin.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\gouth\\OneDrive\\Desktop\\KASHUTHAA\\C#\\Play Kazhutha\\Play Kazhutha\\PlayLocal\\localJoin.xaml.cs",
+              "RelativeDocumentMoniker": "Play Kazhutha\\PlayLocal\\localJoin.xaml.cs",
+              "ToolTip": "C:\\Users\\gouth\\OneDrive\\Desktop\\KASHUTHAA\\C#\\Play Kazhutha\\Play Kazhutha\\PlayLocal\\localJoin.xaml.cs",
+              "RelativeToolTip": "Play Kazhutha\\PlayLocal\\localJoin.xaml.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T15:21:04.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "localJoin.xaml",
+              "DocumentMoniker": "C:\\Users\\gouth\\OneDrive\\Desktop\\KASHUTHAA\\C#\\Play Kazhutha\\Play Kazhutha\\PlayLocal\\localJoin.xaml",
+              "RelativeDocumentMoniker": "Play Kazhutha\\PlayLocal\\localJoin.xaml",
+              "ToolTip": "C:\\Users\\gouth\\OneDrive\\Desktop\\KASHUTHAA\\C#\\Play Kazhutha\\Play Kazhutha\\PlayLocal\\localJoin.xaml",
+              "RelativeToolTip": "Play Kazhutha\\PlayLocal\\localJoin.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-13T15:20:57.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\gouth\\OneDrive\\Desktop\\KASHUTHAA\\C#\\Play Kazhutha\\Play Kazhutha\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Play Kazhutha\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\gouth\\OneDrive\\Desktop\\KASHUTHAA\\C#\\Play Kazhutha\\Play Kazhutha\\MainPage.xaml",
+              "RelativeToolTip": "Play Kazhutha\\MainPage.xaml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAiwBwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-13T15:06:25.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\gouth\\OneDrive\\Desktop\\KASHUTHAA\\C#\\Play Kazhutha\\Play Kazhutha\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Play Kazhutha\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\gouth\\OneDrive\\Desktop\\KASHUTHAA\\C#\\Play Kazhutha\\Play Kazhutha\\MainPage.xaml.cs",
+              "RelativeToolTip": "Play Kazhutha\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T15:01:55.928Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Release-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "KazhuthaServer",
+					"jsonFile" : "directory-KazhuthaServer-Release-dc35126663159d654174.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "KazhuthaServer",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "KazhuthaServer",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "KazhuthaServer::@45af851f45f5c230d937",
+					"jsonFile" : "target-KazhuthaServer-Release-99e81f27363d3bac000e.json",
+					"name" : "KazhuthaServer",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/gouth/OneDrive/Desktop/KASHUTHAA/C/Final/KazhuthaServer/out/build/x64-release",
+		"source" : "C:/Users/gouth/OneDrive/Desktop/KASHUTHAA/C/Final/KazhuthaServer"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

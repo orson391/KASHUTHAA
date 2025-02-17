@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Play_Kazhutha.PlayLocal.localJoin"
+             Title="localJoin">
+    <VerticalStackLayout>
+        <Label 
+            Text="Welcome to .NET MAUI!"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+        <Label Text="Server Logs:" FontSize="18" />
+        
+        <ScrollView HeightRequest="200">
+            <Label x:Name="ServerLogs" FontSize="14" />
+        </ScrollView>
+
+        <Button Text="Start Server" Clicked="OnStartServerClicked" />
+        <Button Text="Connect as Client" Clicked="OnConnectClientClicked" />
+
+    </VerticalStackLayout>
+</ContentPage>

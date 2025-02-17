@@ -1,0 +1,5 @@
+C:/Users/gouth/OneDrive/Desktop/KASHUTHAA/C/Final/KazhuthaServer/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/gouth/OneDrive/Desktop/KASHUTHAA/C/Final/KazhuthaServer/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/gouth/OneDrive/Desktop/KASHUTHAA/C/Final/KazhuthaServer/out/build/x64-debug/KazhuthaServer/CMakeFiles/KazhuthaServer.dir
+C:/Users/gouth/OneDrive/Desktop/KASHUTHAA/C/Final/KazhuthaServer/out/build/x64-debug/KazhuthaServer/CMakeFiles/edit_cache.dir
+C:/Users/gouth/OneDrive/Desktop/KASHUTHAA/C/Final/KazhuthaServer/out/build/x64-debug/KazhuthaServer/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,9 @@
+# ninja log v5
+1	62	7609046169588574	KazhuthaServer/CMakeFiles/KazhuthaServer.dir/KazhuthaServer.c.obj	db7ae9ad302a131c
+63	273	7609046171531921	KazhuthaServer/KazhuthaServer.exe	6c847400fe9f7f77
+3	382	7609057800217232	KazhuthaServer/CMakeFiles/KazhuthaServer.dir/KazhuthaServer.c.obj	7a64d91b4a94c39e
+384	521	7609057801238386	KazhuthaServer/KazhuthaServer.exe	cc4be18796d7b8d2
+51	60	0	clean	8c45b54705a541e8
+8	14	0	clean	8c45b54705a541e8
+8	112	7609058450530769	KazhuthaServer/CMakeFiles/KazhuthaServer.dir/KazhuthaServer.c.obj	7a64d91b4a94c39e
+113	221	7609058451315898	KazhuthaServer/KazhuthaServer.exe	cc4be18796d7b8d2
